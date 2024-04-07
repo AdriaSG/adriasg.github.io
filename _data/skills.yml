@@ -1,33 +1,26 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
+  - item: Spanish - Native
+  - item: English - Fluent
+  - item: German - B1
+
+frameworks:
   - item: Python
   - item: SQL
   - item: R
-
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Tableau, PowerBI, MicroStrategy
+  - item: Docker
+  - item: Kubernetes
+  - item: Git
 
 tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Data Wrangling & Cleansing
+  - item: Analytical Prowess
+  - item: Visual Storytelling
+  - item: Creative Problem Solving
+  - item: Effective Communication
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Product Innovation
+  - item: Machine Learning
+  - item: Large Language Models
+
